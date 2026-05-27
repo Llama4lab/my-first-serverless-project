@@ -1,0 +1,23 @@
+{
+  "name": "my-first-serverless-project",
+  "version": "1.0.0",
+  "description": "Learn how to use serverless functions in less than 30 minutes!",
+  "homepage": "https://github.com/Llama4lab/my-first-serverless-project#readme",
+  "bugs": {
+    "url": "https://github.com/Llama4lab/my-first-serverless-project/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Llama4lab/my-first-serverless-project.git"
+  },
+  "license": "MIT",
+  "author": "Allane",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}
